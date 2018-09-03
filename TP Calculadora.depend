@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1535937463 source:c:\users\gonza\desktop\tp programacion\tp calculadora\main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-
