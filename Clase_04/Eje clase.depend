@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536020335 source:c:\users\alumno\desktop\eje clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"validaredad.h"
+
+1536020269 source:c:\users\alumno\desktop\eje clase\validaredad.c
+	<stdio.h>
+	"validaredad.h"
+
+1536020054 c:\users\alumno\desktop\eje clase\validaredad.h
+
