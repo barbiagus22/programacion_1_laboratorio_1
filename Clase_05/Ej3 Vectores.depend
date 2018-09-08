@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536366407 source:c:\users\alumno\desktop\ej3 vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
