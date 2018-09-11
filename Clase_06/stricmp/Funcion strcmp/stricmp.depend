@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536638848 source:c:\users\gonza\desktop\programacion\ejercicios descargados git clase\stricmp\funcion strcmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
