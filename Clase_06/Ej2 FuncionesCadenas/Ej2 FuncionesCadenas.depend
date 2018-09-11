@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536627586 source:c:\users\alumno\desktop\barbara\ej1\ej2 funcionescadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
