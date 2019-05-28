@@ -1,0 +1,4 @@
+ 3,Juan,Perez,5
+ 2,Maria,Lopez,4
+ 7,Julieta,Sold,3
+
